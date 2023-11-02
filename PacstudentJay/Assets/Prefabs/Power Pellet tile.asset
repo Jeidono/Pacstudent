@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Power Pellet tile
   m_EditorClassIdentifier: 
   m_DefaultSprite: {fileID: 0}
-  m_DefaultGameObject: {fileID: 0}
-  m_DefaultColliderType: 1
+  m_DefaultGameObject: {fileID: 6349457213257934268, guid: e8a1cc0072fae9249a441b391dbb3779, type: 3}
+  m_DefaultColliderType: 0
   m_TilingRules: []

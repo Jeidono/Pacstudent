@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ghosts
+    uniqueID: 2928961805
+    locked: 0
+  - name: PacStudent
+    uniqueID: 1154976289
+    locked: 0
+  - name: Pellets
+    uniqueID: 1064033865
+    locked: 0
